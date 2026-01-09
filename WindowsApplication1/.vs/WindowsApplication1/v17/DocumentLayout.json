@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|c:\\uas pemrograman desktop madura mart\\windowsapplication1\\windowsapplication1\\views\\items\\frmlistitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\views\\items\\frmlistitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|c:\\uas pemrograman desktop madura mart\\windowsapplication1\\windowsapplication1\\views\\items\\frmiteminput.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\views\\items\\frmiteminput.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|c:\\uas pemrograman desktop madura mart\\windowsapplication1\\windowsapplication1\\views\\items\\frmiteminput.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\views\\items\\frmiteminput.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\windowsapplication1\\views\\category\\frmaddcategory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\views\\category\\frmaddcategory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\windowsapplication1\\koneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\koneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\windowsapplication1\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|c:\\uas pemrograman desktop madura mart\\windowsapplication1\\windowsapplication1\\frmsetting.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\frmsetting.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|c:\\uas pemrograman desktop madura mart\\windowsapplication1\\windowsapplication1\\views\\purchase\\frmpurchase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\views\\purchase\\frmpurchase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\windowsapplication1\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\windowsapplication1\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|c:\\uas pemrograman desktop madura mart\\windowsapplication1\\windowsapplication1\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|c:\\uas pemrograman desktop madura mart\\windowsapplication1\\windowsapplication1\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|c:\\uas pemrograman desktop madura mart\\windowsapplication1\\windowsapplication1\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{345B4266-4E1F-4EA6-B1EC-6CDBE4DB182F}|WindowsApplication1\\WindowsApplication1.vbproj|solutionrelative:windowsapplication1\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmItemInput.vb",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\views\\items\\frmItemInput.vb",
+              "RelativeDocumentMoniker": "WindowsApplication1\\views\\items\\frmItemInput.vb",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\views\\items\\frmItemInput.vb",
+              "RelativeToolTip": "WindowsApplication1\\views\\items\\frmItemInput.vb",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwFEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-09T08:28:26.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmPurchase.vb [Design]",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\views\\purchase\\frmPurchase.vb",
+              "RelativeDocumentMoniker": "WindowsApplication1\\views\\purchase\\frmPurchase.vb",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\views\\purchase\\frmPurchase.vb [Design]",
+              "RelativeToolTip": "WindowsApplication1\\views\\purchase\\frmPurchase.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-09T07:41:44.797Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmListItem.vb [Design]",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\views\\items\\frmListItem.vb",
+              "RelativeDocumentMoniker": "WindowsApplication1\\views\\items\\frmListItem.vb",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\views\\items\\frmListItem.vb [Design]",
+              "RelativeToolTip": "WindowsApplication1\\views\\items\\frmListItem.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-09T07:41:38.14Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmItemInput.vb [Design]",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\views\\items\\frmItemInput.vb",
+              "RelativeDocumentMoniker": "WindowsApplication1\\views\\items\\frmItemInput.vb",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\views\\items\\frmItemInput.vb [Design]",
+              "RelativeToolTip": "WindowsApplication1\\views\\items\\frmItemInput.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-09T07:41:36.837Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "WindowsApplication1\\DataSet1.xsd",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\DataSet1.xsd",
+              "RelativeToolTip": "WindowsApplication1\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-01-09T07:13:43.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmUtama.vb",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\frmUtama.vb",
+              "RelativeDocumentMoniker": "WindowsApplication1\\frmUtama.vb",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\frmUtama.vb",
+              "RelativeToolTip": "WindowsApplication1\\frmUtama.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-09T07:11:28.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmLogin.vb",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\frmLogin.vb",
+              "RelativeDocumentMoniker": "WindowsApplication1\\frmLogin.vb",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\frmLogin.vb",
+              "RelativeToolTip": "WindowsApplication1\\frmLogin.vb",
+              "ViewState": "AgIAACEAAAAAAAAAAAAzwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-09T06:59:31.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddCategory.vb [Design]",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\views\\category\\frmAddCategory.vb",
+              "RelativeDocumentMoniker": "WindowsApplication1\\views\\category\\frmAddCategory.vb",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\views\\category\\frmAddCategory.vb [Design]",
+              "RelativeToolTip": "WindowsApplication1\\views\\category\\frmAddCategory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-07T12:43:48.164Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmUtama.vb [Design]",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\frmUtama.vb",
+              "RelativeDocumentMoniker": "WindowsApplication1\\frmUtama.vb",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\frmUtama.vb [Design]",
+              "RelativeToolTip": "WindowsApplication1\\frmUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-07T12:43:02.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.vb [Design]",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\frmLogin.vb",
+              "RelativeDocumentMoniker": "WindowsApplication1\\frmLogin.vb",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\frmLogin.vb [Design]",
+              "RelativeToolTip": "WindowsApplication1\\frmLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-07T12:42:42.899Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Koneksi.vb",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\Koneksi.vb",
+              "RelativeDocumentMoniker": "WindowsApplication1\\Koneksi.vb",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\Koneksi.vb",
+              "RelativeToolTip": "WindowsApplication1\\Koneksi.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-07T12:37:56.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.vb",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\Main.vb",
+              "RelativeDocumentMoniker": "WindowsApplication1\\Main.vb",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\Main.vb",
+              "RelativeToolTip": "WindowsApplication1\\Main.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-07T12:36:01.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmSetting.vb [Design]",
+              "DocumentMoniker": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\frmSetting.vb",
+              "RelativeDocumentMoniker": "WindowsApplication1\\frmSetting.vb",
+              "ToolTip": "C:\\UAS Pemrograman Desktop Madura Mart\\WindowsApplication1\\WindowsApplication1\\frmSetting.vb [Design]",
+              "RelativeToolTip": "WindowsApplication1\\frmSetting.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-07T12:34:36.363Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

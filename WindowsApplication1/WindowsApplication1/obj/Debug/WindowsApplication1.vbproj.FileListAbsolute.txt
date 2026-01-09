@@ -1,0 +1,452 @@
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Reports\SalesReport.rdlc
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\EnvDTE.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\stdole.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\EnvDTE80.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\VSLangProj.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\VSLangProj80.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\VSLangProj2.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.xml
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\EnvDTE.xml
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\EnvDTE80.xml
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\VSLangProj.xml
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\VSLangProj80.xml
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\VSLangProj2.xml
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormSettingDB.resources
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmLogin.resources
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmUtama.resources
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmAddCategory.resources
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmItemInput.resources
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmListItem.resources
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmPurchase.resources
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormPurchaseReport.resources
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormSalesReport.resources
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSale.resources
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\HENDRA\Documents\Visual Studio 2015\Projects\PDesktopPertemuan_15\WindowsApplication1\WindowsApplication1\bin\Debug\Reports\ReportPurchase.rdlc
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Reports\SalesReport.rdlc
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Reports\ReportPurchase.rdlc
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\EnvDTE.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\stdole.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.xml
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\EnvDTE.xml
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe.config
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormSettingDB.resources
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmLogin.resources
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmUtama.resources
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmAddCategory.resources
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmItemInput.resources
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmListItem.resources
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmPurchase.resources
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormPurchaseReport.resources
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormSalesReport.resources
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSale.resources
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsA.EB57EBB5.Up2Date
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Yansha\Projects\Code Project\MID\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Reports\SalesReport.rdlc
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Reports\ReportPurchase.rdlc
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\EnvDTE.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\System.Memory.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\stdole.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\System.Numerics.Vectors.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmLogin.resources
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmUtama.resources
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmAddCategory.resources
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmItemInput.resources
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmListItem.resources
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmPurchase.resources
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormPurchaseReport.resources
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormSalesReport.resources
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSale.resources
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsA.EB57EBB5.Up2Date
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSetting.resources
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe.config
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.SuggestedBindingRedirects.cache
+D:\UAS Pemrograman Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmUsers.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Reports\SalesReport.rdlc
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Reports\ReportPurchase.rdlc
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\EnvDTE.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Memory.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\stdole.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Numerics.Vectors.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.SuggestedBindingRedirects.cache
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe.config
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmLogin.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSetting.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmUtama.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmAddCategory.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmItemInput.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmListItem.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmPurchase.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormPurchaseReport.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormSalesReport.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSale.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmUsers.resources
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsA.EB57EBB5.Up2Date
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe.config
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmLogin.resources
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSetting.resources
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmUtama.resources
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmAddCategory.resources
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmItemInput.resources
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmListItem.resources
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmPurchase.resources
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormPurchaseReport.resources
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormSalesReport.resources
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSale.resources
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Reports\SalesReport.rdlc
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Reports\ReportPurchase.rdlc
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\EnvDTE.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Memory.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\stdole.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Numerics.Vectors.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsA.EB57EBB5.Up2Date
+C:\KULIAH APRIL\Tugas kiki SMT 5\PERMPROGRAMAN VISUAL\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+C:\KULIAH APRIL\Tugas kiki SMT 5\PERMPROGRAMAN VISUAL\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.SuggestedBindingRedirects.cache
+C:\KULIAH APRIL\Tugas kiki SMT 5\PERMPROGRAMAN VISUAL\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe.config
+C:\KULIAH APRIL\Tugas kiki SMT 5\PERMPROGRAMAN VISUAL\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\KULIAH APRIL\Tugas kiki SMT 5\PERMPROGRAMAN VISUAL\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\KULIAH APRIL\Tugas kiki SMT 5\PERMPROGRAMAN VISUAL\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Google.Protobuf.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\K4os.Compression.LZ4.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\K4os.Hash.xxHash.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Buffers.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.IO.Pipelines.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\ZstdSharp.dll
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Google.Protobuf.pdb
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Google.Protobuf.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\K4os.Compression.LZ4.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\K4os.Hash.xxHash.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Buffers.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.IO.Pipelines.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Memory.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Numerics.Vectors.xml
+C:\UAS Pemrograman Desktop Madura Mart\WindowsApplication1\WindowsApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
